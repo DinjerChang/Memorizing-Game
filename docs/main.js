@@ -68,6 +68,7 @@ const Symbols = [
   'https://image.flaticon.com/icons/svg/105/105212.svg', // 方塊
   'https://image.flaticon.com/icons/svg/105/105219.svg' // 梅花
 ]
+//VIEW
 const view = {
   displayCards(random_index_array) {
     const rootElement = document.querySelector('#card-table')
